@@ -35,7 +35,7 @@ CSS3
 
 JavaScript
 
-🐞 Posibles problemas
+🐞 Posibles problemas:
 Si los nombres no aparecen, revisa que el archivo app.js esté correctamente vinculado en index.html.
 
 Si el sorteo no funciona, verifica que haya al menos un nombre en la lista.
