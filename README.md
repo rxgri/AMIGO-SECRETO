@@ -28,6 +28,7 @@ Ejecutar
 Abre el archivo index.html en un navegador para usar la aplicación.
 
 🛠 Tecnologías utilizadas
+
 HTML5
 
 CSS3
@@ -37,4 +38,4 @@ JavaScript
 🐞 Posibles problemas
 Si los nombres no aparecen, revisa que el archivo app.js esté correctamente vinculado en index.html.
 
-Si el sorteo no funciona, confirma que haya al menos un nombre en la lista.
+Si el sorteo no funciona, verifica que haya al menos un nombre en la lista.
